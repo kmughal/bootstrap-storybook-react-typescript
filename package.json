@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap-storybook-react-typescript",
+  "name": "bootstrap-storybook-react",
   "version": "1.0.0",
   "main": "bin/index.js",
   "description": "A cli package that will create bootstrap project for you if you want to use storybook react and typescript.",
