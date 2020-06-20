@@ -1,0 +1,15 @@
+{
+  "name": "bootstrap-storybook-react-typescript",
+  "version": "1.0.0",
+  "main": "bin/index.js",
+  "description": "A cli package that will create bootstrap project for you if you want to use storybook react and typescript.",
+  "bin": {
+    "bootstrap-storybook-react-typescript" : "bin/index.js"
+  },
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": ["storybook" , "react" , "typescript" , "storybook react typescript" , "storybook react"],
+  "author": "Khurram Shahzad",
+  "license": "ISC"
+}
